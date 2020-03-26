@@ -2,4 +2,4 @@ git text
 wow this is my first time trying git!
 it's a bit weird but I am getting used to it!
 
-pull practice
+push practice
